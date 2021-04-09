@@ -1,0 +1,11 @@
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+}
+
+body {
+  background-color: #EF4F4F;
+  font-family: courier;
+  font-size: 150%;
+}
